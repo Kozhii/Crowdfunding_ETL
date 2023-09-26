@@ -65,8 +65,6 @@ Choose one of the following two options for extracting and transforming the data
 
 Option 1: Use Python dictionary methods.
 
-Option 2: Use regular expressions.
-
 If you chose Option 1, complete the following steps:
 
 Import the contacts.xlsx file into a DataFrame.
